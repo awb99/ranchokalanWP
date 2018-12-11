@@ -17,3 +17,7 @@ docker-compose ps
 
 
 https://www.youtube.com/watch?v=pkp_Dr_4pOA
+
+https://hub.docker.com/_/wordpress/
+
+
