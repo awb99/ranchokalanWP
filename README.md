@@ -15,3 +15,5 @@ docker-compose down
 To list running images:
 docker-compose ps
 
+
+https://www.youtube.com/watch?v=pkp_Dr_4pOA
