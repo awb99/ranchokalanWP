@@ -25,4 +25,6 @@ https://hub.docker.com/_/wordpress/
 espiraldelser port 90
 ranchokalan   port 91
 
+# HOW TO ENABLE PLUGINS:
 
+sudo chown -R www-data:www-data path/to/wp-content
